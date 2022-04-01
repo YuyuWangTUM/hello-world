@@ -22,6 +22,6 @@
 
 [title](https://www.example.com)
 
-![alt text](image.jpg)
+![alt text](https://github.com/YuyuWangTUM/MyPictures/blob/main/IMG_20190119_124026.jpg?raw=true)
 
 My first repository~
